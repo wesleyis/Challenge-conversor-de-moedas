@@ -141,16 +141,7 @@ Este projeto utiliza a [ExchangeRate-API](https://exchangerate-api.com/) que ofe
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📧 Contato
-
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/currency-converter](https://github.com/seu-usuario/currency-converter)
+Link do Projeto: [https://github.com/seu-usuario/currency-converter](https://github.com/wesleyis/Challenge-conversor-de-moedas.git)
 
 ---
 
-⭐ Se este projeto te ajudou, considere dar uma estrela no repositório!
