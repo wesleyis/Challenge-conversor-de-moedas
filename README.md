@@ -141,7 +141,7 @@ Este projeto utiliza a [ExchangeRate-API](https://exchangerate-api.com/) que ofe
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-Link do Projeto: [https://github.com/seu-usuario/currency-converter](https://github.com/wesleyis/Challenge-conversor-de-moedas.git)
+
 
 ---
 
